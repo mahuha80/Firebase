@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "165082583781",
+    "firebase_url": "https://vinh-de333.firebaseio.com",
+    "project_id": "vinh-de333",
+    "storage_bucket": "vinh-de333.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:165082583781:android:cc63da0852fccea41b7a0c",
+        "android_client_info": {
+          "package_name": "com.example.lab8"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "165082583781-sndl3cncv1m1bc811p267c9afuqbfdgo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDyIAwjCoNthQ6messGAWuximLNk5dNHEI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "165082583781-sndl3cncv1m1bc811p267c9afuqbfdgo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
